@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/house_app/static/css/main.ff1bc13a.css",
+    "main.js": "/house_app/static/js/main.8b45186d.js",
+    "static/media/house2.jpg": "/house_app/static/media/house2.87e56bd05a9c9200a337.jpg",
+    "static/media/hero-img.jpg": "/house_app/static/media/hero-img.6bf08fe8a2341a0eff67.jpg",
+    "static/media/house1.jpg": "/house_app/static/media/house1.04cf1648905ec0032d95.jpg",
+    "static/media/bath2.jpg": "/house_app/static/media/bath2.3069680cd2fc8aff2dc5.jpg",
+    "static/media/bed4.jpg": "/house_app/static/media/bed4.d325256855b00355ee2d.jpg",
+    "static/media/bed3.jpg": "/house_app/static/media/bed3.6112743e2729e154db10.jpg",
+    "static/media/living-room.jpg": "/house_app/static/media/living-room.255d422b4a56fcd9bcf2.jpg",
+    "static/media/bed1.jpg": "/house_app/static/media/bed1.9e246f4340fc4d07e524.jpg",
+    "static/media/kitchen.jpg": "/house_app/static/media/kitchen.30699db8cf0053cf39e2.jpg",
+    "static/media/bed2.jpg": "/house_app/static/media/bed2.e6ba16d52f843b577b4e.jpg",
+    "static/media/apt1.jpeg": "/house_app/static/media/apt1.24bb930ff5bdeb7d8a36.jpeg",
+    "static/media/apt3.jpeg": "/house_app/static/media/apt3.823d618e7164526d5d58.jpeg",
+    "static/media/apt2.jpeg": "/house_app/static/media/apt2.019e0dd5fa55c2be1ee4.jpeg",
+    "static/media/bath1.jpg": "/house_app/static/media/bath1.a48b0894e5a75dbc5005.jpg",
+    "index.html": "/house_app/index.html",
+    "main.ff1bc13a.css.map": "/house_app/static/css/main.ff1bc13a.css.map",
+    "main.8b45186d.js.map": "/house_app/static/js/main.8b45186d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff1bc13a.css",
+    "static/js/main.8b45186d.js"
+  ]
+}
