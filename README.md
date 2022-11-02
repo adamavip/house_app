@@ -42,7 +42,7 @@ Run the following commands to clone and run it.
 
 ## Authors
 
-👤 **Hammas Bin Saleem**
+👤 **Adama NDOUR**
 
 - GitHub: [@adamavip](https://github.com/adamavip)
 - Twitter: [@adamavip](https://twitter.com/adamavip)
