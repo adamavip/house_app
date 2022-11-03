@@ -10,7 +10,7 @@ This is a estate fully responsive app build with React JS library.
 
 ## Get Live Demo
 
-[Live Demo Netlify Link](https://adamavip.github.io/house_app)
+[Live Demo Github Pages Link](https://adamavip.github.io/house_app)
 
 ## Clone and review it
 
